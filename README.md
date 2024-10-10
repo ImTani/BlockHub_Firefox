@@ -26,22 +26,18 @@ BlockHub is an open-source Chrome extension designed to block ads across various
 - Once installed, the extension will automatically start blocking ads.
 - You can customize settings and filters by clicking on the BlockHub icon in the toolbar.
 
-### 🎉HacktoberFest :
+## 🎉 Hacktoberfest
 
 ![Hacktoberfest](./assets/logo-hacktoberfest-11--beige.2b2fdfcb.svg)
 
-🚀Join us in celebrating Hacktoberfest'24 ,this project is part of it. Contribute to BlockHub and earn a chance to receive some awesome swags!
+🚀 Join us in celebrating Hacktoberfest 2024! This project is part of the event. Contribute to BlockHub and stand a chance to earn some awesome swag!
 
 ## Contributing
 
-We are open for contributions! Feel free to visit [here](CONTRIBUTING.md).
+We are open for contributions! Feel free to visit our [Contributing Guide](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 > New features coming soon. Stay tuned!
-
-## Project Contributors
-
-<div align="center">
-<a href="https://github.com/ivedmohan/BlockHub/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=ivedmohan/BlockHub" />
-</a>
-</div>
